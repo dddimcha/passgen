@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rcptCfg>
+
+	<systemAcc>
+
+		<acc id = "1" >
+			<admMail> adm@adm.com</admMail>
+		</acc>
+
+		<acc id = "2" >
+			<admMail>adm@adm.com</admMail>
+		</acc>
+
+</systemAcc>
+
+	<student>
+
+		<data id = "1">
+			<mail> sent@mail.com </mail>
+			<pass> student1</pass>
+			<epxpAfterDays>7</epxpAfterDays>
+			<createdAt>01.01.2014</createdAt>>
+		</data>
+
+		<data id = "2">
+			<mail> sent@mail.com </mail>
+			<pass> student1</pass>
+			<epxpAfterDays>7</epxpAfterDays>
+			<createdAt>01.01.2014</createdAt>>
+		</data>
+
+		<data id = "3">
+			<mail> sent@mail.com </mail>
+			<pass> student1</pass>
+			<epxpAfterDays>7</epxpAfterDays>
+			<createdAt>01.01.2014</createdAt>>
+		</data>
+
+		<data id = "4">
+			<mail> sent@mail.com </mail>
+			<pass> student1</pass>
+			<epxpAfterDays>7</epxpAfterDays>
+			<createdAt>01.01.2014</createdAt>>
+		</data>
+
+</student>
+
+</rcptCfg>>
