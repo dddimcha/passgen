@@ -3,16 +3,9 @@
 <rcptCfg>
 
 	<systemAcc>
-
-		<acc id = "1" >
-			<admMail> adm@adm.com</admMail>
-		</acc>
-
-		<acc id = "2" >
-			<admMail>adm@adm.com</admMail>
-		</acc>
-
-</systemAcc>
+			<admMail id ="1">adm@adm.com</admMail>
+			<admMail id ="2">adm@adm.com</admMail>
+	</systemAcc>
 
 	<student>
 
@@ -44,6 +37,6 @@
 			<createdAt>01.01.2014</createdAt>>
 		</data>
 
-</student>
+	</student>
 
 </rcptCfg>>
