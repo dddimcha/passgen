@@ -13,6 +13,9 @@ public class dataIn {
             .useUpper(true)
             .build();
 
+    downloadFromFTP DownloadXML = new downloadFromFTP();
+    DownloadXML.connectToServer("as","as","11", "sdas","asd","asd");
+
     Scanner sc = new Scanner(System.in);
     System.out.println("Type number of students: /n");
     int numberOfUseers = sc.nextInt();
